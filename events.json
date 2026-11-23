@@ -1,0 +1,20 @@
+[
+  {
+    "repo": "github/docs",
+    "description": "The open-source repo for GitHub documentation.",
+    "url": "https://github.com/github/docs",
+    "starredAt": "2026-11-20"
+  },
+  {
+    "repo": "octocat/Hello-World",
+    "description": "A small repository for learning GitHub workflows.",
+    "url": "https://github.com/octocat/Hello-World",
+    "starredAt": "2026-11-21"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code source code.",
+    "url": "https://github.com/microsoft/vscode",
+    "starredAt": "2026-11-22"
+  }
+]
