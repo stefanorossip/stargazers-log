@@ -15,6 +15,17 @@ h1 {
   margin-bottom: 0.25rem;
 }
 
+.status {
+  min-height: 1.5rem;
+  margin: 1rem 0;
+  color: #57606a;
+}
+
+.status.error {
+  color: #cf222e;
+  font-weight: 700;
+}
+
 .subtitle {
   margin-top: 0;
   color: #57606a;
@@ -38,11 +49,11 @@ h1 {
   color: #0969da;
   font-size: 1.1rem;
   font-weight: 700;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .starred-item a:hover {
-  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 .starred-item p {
